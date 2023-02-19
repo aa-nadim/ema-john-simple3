@@ -10,6 +10,8 @@
 
 5. 53-6 Implement Review Item style with a lot of flex
 
+6. 53-7 More style of Review item and font awesome delete style
+
 ## Resources
 
 `https://create-react-app.dev/docs/adding-a-css-modules-stylesheet`
