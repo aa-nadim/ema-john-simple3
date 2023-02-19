@@ -12,6 +12,8 @@
 
 6. 53-7 More style of Review item and font awesome delete style
 
+7. 53-8 Remove Item handler and Make Data consistent across UI
+
 ## Resources
 
 `https://create-react-app.dev/docs/adding-a-css-modules-stylesheet`
