@@ -4,4 +4,8 @@
 
 2. 53-3 Use Loader to load data and make it available in the component
 
-3. 53-4 Create products and saved cart loader and return multiple items
+3. `53-4 Create products and saved cart loader and return multiple items`
+
+## Resources
+
+`https://create-react-app.dev/docs/adding-a-css-modules-stylesheet`
