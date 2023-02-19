@@ -14,6 +14,8 @@
 
 7. 53-8 Remove Item handler and Make Data consistent across UI
 
+8. 53-9 Module Summary, explore children props
+
 ## Resources
 
 `https://create-react-app.dev/docs/adding-a-css-modules-stylesheet`
