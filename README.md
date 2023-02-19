@@ -6,6 +6,10 @@
 
 3. `53-4 Create products and saved cart loader and return multiple items`
 
+4. 53-5 Import Cart from loader and Display Shopping cart
+
+5. 53-6 Implement Review Item style with a lot of flex
+
 ## Resources
 
 `https://create-react-app.dev/docs/adding-a-css-modules-stylesheet`
